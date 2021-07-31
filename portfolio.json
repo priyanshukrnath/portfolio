@@ -1,0 +1,71 @@
+{
+	"basics": {
+		"name": "Priyanshu Kumar Nath",
+		"label": "Student",
+		"picture": "",
+		"email": "2019kuec2006@iiitkota.ac.in",
+		"phone": "6393586156",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "A student of Electronics and Communication at IIIT, Kota with keen Interest in Mobile App Development and Competitive Programming. I'm Enthusiastic quick learner and can grasp new things quickly.",
+		"location": {
+			"address": "---",
+			"postalCode": "---",
+			"city": "Kanpur",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "---"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://github.com/priyanshukrnath"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/priyanshukrnath/"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://www.instagram.com/priyanshukrnath/"
+			}
+		]
+	},
+	
+	"volunteer": [{
+		"organization": "Artive Club",
+		"position": "Club Lead",
+		"website": "---",
+		"startDate": "2020-01-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Official Art and Craft Club of IIIT,Kota",
+		"highlights": []
+	}
+    ],
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-05-08 //Date",
+		"endDate": "----",
+		"gpa": "7.5",
+		"courses": [
+			"Electronics & Communication Engineering"
+		]
+	}],
+	
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Flutter", "SQL", "C/C++", "Firebase", "Matlab", "Python"]
+	}],
+	"interests": [{
+		"name": "Extra Curricular",
+		"keywords": ["Sketching", "Pianist", "Poetry", "Gaming"]
+	}],
+	"references": []
+}
