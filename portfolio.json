@@ -21,17 +21,17 @@
 			},
 			{
 				"network": "Github",
-				"username": "handle",
+				"username": "priyanshukrnath",
 				"url": "https://github.com/priyanshukrnath"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
+				"username": "priyanshukrnath",
 				"url": "https://www.linkedin.com/in/priyanshukrnath/"
 			},
 			{
 				"network": "Instagram",
-				"username": "handle",
+				"username": "priyanshukrnath",
 				"url": "https://www.instagram.com/priyanshukrnath/"
 			}
 		]
@@ -52,7 +52,7 @@
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "2019-05-08 //Date",
-		"endDate": "----",
+		"endDate": "---",
 		"gpa": "7.5",
 		"courses": [
 			"Electronics & Communication Engineering"
